@@ -1,0 +1,20 @@
+	Date :		Mon Nov 07 11:23:44 AST 2022	
+	shawerma type is: Meat Shawerma. 
+	Addons are    :
+-----------------------------------------------------
+	Date :		Mon Nov 07 11:24:24 AST 2022	
+	shawerma type is: Meat Shawerma. 
+	Addons are    :, Cheese ,Pickels ,Garlic
+-----------------------------------------------------
+	Date :		Mon Nov 07 11:24:43 AST 2022	
+	shawerma type is: Chicken Shawerma. 
+	Addons are    :, Cheese ,Tahini
+-----------------------------------------------------
+	Date :		Fri Nov 11 21:39:17 AST 2022	
+	shawerma type is: Meat Shawerma. 
+	Addons are    :
+-----------------------------------------------------
+	Date :		Fri Nov 11 21:39:36 AST 2022	
+	shawerma type is: Meat Shawerma. 
+	Addons are    : ,Garlic, Cheese ,Ketchup
+-----------------------------------------------------
